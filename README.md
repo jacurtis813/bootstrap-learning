@@ -19,4 +19,8 @@ Understanding how to use bootstrap. With Udemy- Self Taught.
 15. Understand the breakdown of the HTML content to make sense of the css and the js used
 16. Creating grid systems with bootstrap
 17. Building the grid system in multpiple levels to understand how
-18. 
+18. Create third HTML file to continue learning the CSS basics with bootstrap
+19. Correct the format on all three HTML files. Continue using the styles without using the CSS file
+20. Add link tags to all three pages to help with the navigation from page to page
+21. Cleaned up the entire first page of all three, using the third for continued practice
+22. Comment all three pages and save all contents for those pages
