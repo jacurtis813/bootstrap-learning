@@ -1,7 +1,7 @@
-# Bootstrap  
+# Bootstrap Basix: 
 Understanding how to use bootstrap. With Udemy- Self Taught.
 
-# Breakdown
+# Breakdown Of Lessons:
 1. Use this repo to style the web page without using css style page.
 2. In this section we have used the link tag to use the bootstrap styles within the link.
 3. Use class names to practice using the styles within the bootstrap link/ file.
@@ -17,3 +17,6 @@ Understanding how to use bootstrap. With Udemy- Self Taught.
 13. Utilizing the bootstrap CDN as a reference tool to understand; jumbotrons, navs, navbars ,and etc.
 14. Understanding how to incorporate the use of Jquery to use some of our basic Javascript variables.=
 15. Understand the breakdown of the HTML content to make sense of the css and the js used
+16. Creating grid systems with bootstrap
+17. Building the grid system in multpiple levels to understand how
+18. 
