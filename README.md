@@ -12,4 +12,5 @@ Understanding how to use bootstrap. With Udemy- Self Taught.
 8. Creating forms and inputs using the bootstrap templates.
 9. Clearing and setting classes to understand their purpose in the form.
 10. Understanding that we can plug and play with each of the classes within the bootstrap docs.
-11. 
+11. Keep in mind these will be a great ref. tool.
+12. 
