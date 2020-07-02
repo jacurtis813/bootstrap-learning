@@ -24,3 +24,6 @@ Understanding how to use bootstrap. With Udemy- Self Taught.
 20. Add link tags to all three pages to help with the navigation from page to page
 21. Cleaned up the entire first page of all three, using the third for continued practice
 22. Comment all three pages and save all contents for those pages
+23. Using the column sizing to make each row and column responsive to multiple screens
+24. Would like to look into the navs, grid systems, and jumbotrons how to build alone
+25. 
