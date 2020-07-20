@@ -1,0 +1,14 @@
+.brown {
+    background: tan;
+    border: 2px solid rgb(119, 109, 109);
+}
+
+.pink {
+    background: pink;
+    border: 2px solid green;
+}
+
+.green {
+    background: green;
+    border: 2px solid cyan;
+  }

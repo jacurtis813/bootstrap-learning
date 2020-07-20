@@ -26,4 +26,7 @@ Understanding how to use bootstrap. With Udemy- Self Taught.
 22. Comment all three pages and save all contents for those pages
 23. Using the column sizing to make each row and column responsive to multiple screens
 24. Would like to look into the navs, grid systems, and jumbotrons how to build alone
-25. 
+25. Removing the style tags from the html file
+26. Create the file of style.css to place in all styles within one location
+27. Copy the correct script tags and the correct link tags to use within the html file to format the items within bootstrap
+28. 
