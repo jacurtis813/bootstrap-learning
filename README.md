@@ -29,4 +29,4 @@ Understanding how to use bootstrap. With Udemy- Self Taught.
 25. Removing the style tags from the html file
 26. Create the file of style.css to place in all styles within one location
 27. Copy the correct script tags and the correct link tags to use within the html file to format the items within bootstrap
-28. 
+28. Save the learning points so that we can actually create a project using the grid system within bootstrap
